@@ -29,8 +29,9 @@ python detect.py
 ```
 
 Sample Output:
+![image](https://github.com/user-attachments/assets/44d4f8a0-c70d-4456-ba8d-af6e9337b9d5)
 
-![](assets/20250703_000024_image.jpg)
+
 
 ### 2. Detect Faces from Webcam
 
@@ -40,4 +41,4 @@ To run real-time face detection using your webcam:
 python detectCapture.py
 ```
 
-## Sample Output:
+Sample Output:
