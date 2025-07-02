@@ -20,12 +20,18 @@ Install dependencies:
 
 ## How to Use
 
-### 1. Run Face Detection
+### 1. Detect Faces in an Image
 
-To run the real-time face detection from webcam:
+To run the static face detection:
 
 ```python
 python detect.py
+```
+
+## 2. Detect Faces from Webcam
+
+```python
+python detectCapture.py
 ```
 
 ## Sample Output:
