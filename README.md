@@ -28,7 +28,9 @@ To run the static face detection:
 python detect.py
 ```
 
-## 2. Detect Faces from Webcam
+### 2. Detect Faces from Webcam
+
+To run real-time face detection using your webcam:
 
 ```python
 python detectCapture.py
