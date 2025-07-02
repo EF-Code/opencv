@@ -1,4 +1,4 @@
-# Face Recognition with OpenCV
+![image](https://github.com/user-attachments/assets/45bddda3-7758-4f7f-a4c1-c22b46965514)# Face Recognition with OpenCV
 
 This is a simple Python project that uses OpenCV to detect and recognize faces using your webcam or an image file. It utilizes Haar Cascade Classifiers for face detection.
 
@@ -28,9 +28,10 @@ To run the static face detection:
 python detect.py
 ```
 
+
 Sample Output:
 
-![image](https://github.com/user-attachments/assets/44d4f8a0-c70d-4456-ba8d-af6e9337b9d5)
+![image](https://github.com/user-attachments/assets/1b4a7fc8-ddac-4092-bddb-9b935c64150b)
 
 
 
@@ -41,5 +42,3 @@ To run real-time face detection using your webcam:
 ```python
 python detectCapture.py
 ```
-
-Sample Output:
